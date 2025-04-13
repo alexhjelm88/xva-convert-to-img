@@ -17,9 +17,10 @@ A simple Python script to convert XCP-ng or XenServer `.xva` virtual machine bac
 1. Clone the repository:
 
    git clone https://github.com/alexhjelm88/xva-convert-to-img.git
+   
    cd xva-convert-to-img
 
-2. Run the script:
+3. Run the script:
 
    python3 xva-convert-to-img.py yourfile.xva
 
